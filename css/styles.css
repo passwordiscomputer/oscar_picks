@@ -1,0 +1,20 @@
+.red{
+  background-color: red;
+}
+
+img{
+  height: 150px;
+  display: none;
+}
+
+body{
+  background: url('https://78.media.tumblr.com/3b7f1980225b8eeb259478cbaa69d4a5/tumblr_nicjqmLkkV1qic6joo1_r8_500.gif');
+}
+
+h1{
+  color: #dfca4e !important;
+}
+
+.jumbotron{
+  background: #ea2c0b;
+}
